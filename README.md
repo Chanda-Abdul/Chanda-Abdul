@@ -7,7 +7,7 @@ I am a fullstack developer with a frontend focus, specializing in JavaScript, Ja
 
 - 🤝 I’m looking for help with [this Next.js project](https://github.com/Chanda-Abdul/Backstage-Talks-NextJS)
 
-- 👨‍💻 All of my projects are available at [https://www.Chandabdul.dev](https://www.Chandabdul.dev)
+- 👩🏽‍💻 All of my projects are available at [https://www.Chandabdul.dev](https://www.Chandabdul.dev)
 
 - 💬 Ask me about **Sass, CSS, Accessibility, Angular**
 
