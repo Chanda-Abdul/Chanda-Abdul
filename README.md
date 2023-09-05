@@ -1,20 +1,23 @@
-# Hi 👋🏾, I'm Chanda
+# Hi 👋🏾, I'm Chanda, a Creative Frontend Developer
 <!-- <p align="center"> -->
-I am a <i><b>fullstack</b> developer</i> with a <i><b>frontend</b> focus</i>, who specializes in <b>JavaScript</b>, <b>JavaScript frameworks</b>, and <b>CSS</b>. <br><br>My expertise lies in developing <i>rich</i> and <i>engaging</i> <i>user interfaces</i> using <i>modern web technologies</i>. Whether it's building a <i>responsive website</i> or creating a complex <i>web application</i>, I am dedicated to delivering high-quality <i>software solutions</i> that meet <i>user needs</i> and <i>exceed expectations</i>.<br>
-💫
+I am a passionate <i><b>fullstack</b> developer</i> with a strong emphasis on <i><b>frontend</b> development</i>. I specialize in <b>JavaScript</b>, <b>JavaScript frameworks</b>, and <b>CSS</b>. <br><br>My primary focus centers on crafting <i>captivating</i> and <i>seamless</i> user experiences using <i>cutting-edge</i> frontend technologies.  
+<br>
+Whether I'm building a <i>responsive website</i> or engineering a sophisticated <i>web application</i>, I'm passionate about infusing creativity into my work to deliver high-quality <i>software solutions</i> that not only meet <i>user needs</i> but also <i>inspire</i> and <i>captivate</i>.
+<br>
+
 <!-- <p> -->
 
 # 
-- 🔭 I’m currently working on **an e-commerce app**
+- 🔭 I’m currently working on **TBD**
 
-- 🌱 I’m currently learning **GSAP**
+- 🌱 I’m currently learning **GSAP**,**Qwik**, **Flutter** or **Prompt Engineering** 
 <!-- **Next.js, Vue.js, & CSS Animations** -->
 
 <!-- - 🤝 I’m looking for help with [this Next.js project](https://github.com/Chanda-Abdul/Backstage-Talks-NextJS) -->
 
-<!-- - 👩🏽‍💻 All of my projects are available at [ChandAbdul.dev](https://www.Chandabdul.dev) -->
+- 👩🏽‍💻 View my most recent projects at [ChandAbdul.dev](https://www.Chandabdul.dev)
 
-<!-- - 💬 Ask me about **Sass, CSS, Accessibility, Angular** -->
+- 💬 Ask me about **Sass, CSS, Accessibility, Angular**
 
 <!-- - 📫 How to reach me **ChandaAbdul003@gmail.com** -->
 
