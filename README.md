@@ -10,12 +10,12 @@ Whether I'm building a <i>responsive website</i> or engineering a sophisticated 
 # 
 - 🔭 I’m currently working on **TBD**
 
-- 🌱 I’m currently learning **GSAP**,**Qwik**, **Flutter** or **Prompt Engineering** 
+- 🌱 I’m currently learning **GSAP**, **Qwik**, **Flutter** or **Prompt Engineering** 
 <!-- **Next.js, Vue.js, & CSS Animations** -->
 
 <!-- - 🤝 I’m looking for help with [this Next.js project](https://github.com/Chanda-Abdul/Backstage-Talks-NextJS) -->
 
-- 👩🏽‍💻 View my most recent projects at [ChandAbdul.dev](https://www.Chandabdul.dev)
+- 👩🏽‍💻 View my most recent projects at [ChandAbdul.dev](http://chandaabdul.dev/)
 
 - 💬 Ask me about **Sass, CSS, Accessibility, Angular**
 
